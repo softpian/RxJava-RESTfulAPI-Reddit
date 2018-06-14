@@ -4,7 +4,7 @@ Reddit application implementing a RESTful API call with RxJava
 Introduction
 ------------
 ### RxJava
-This repository contains a Reddit application based on [Reactive Programming][23] using RxJava.
+This repository contains a Reddit application based on [Reactive Programming][23] using [RxJava][20].
 
 The application shows how to implement a RESTFul API call with [Retrofit][1] and [RxJava][20] which extends the [Observer pattern][10] to support sequences of data/events.
 
