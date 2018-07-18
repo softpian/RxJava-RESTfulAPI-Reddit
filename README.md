@@ -1,5 +1,5 @@
 # RxReddit
-Reddit application implementing a RESTful API call with RxJava
+Reddit application implementing a RESTful API call with RxJava.
 
 Introduction
 ------------
