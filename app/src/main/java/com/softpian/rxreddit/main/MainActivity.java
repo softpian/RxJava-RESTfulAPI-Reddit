@@ -16,6 +16,6 @@ public class MainActivity extends AppCompatActivity {
             getSupportFragmentManager().beginTransaction()
                     .add(R.id.container, new NewsListFragment())
                     .commit();
-        } 
+        }
     }
 }
